@@ -8,4 +8,4 @@ appVersion: "1.0"
 dependencies:
 - name: hello-world
   version: 0.2.0
-  repository: https://github.com/helm/examples/Charts
+  repository: https://github.com/helm/examples/charts
