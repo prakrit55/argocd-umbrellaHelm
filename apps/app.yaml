@@ -9,7 +9,6 @@ spec:
     name: kind
   project: default
   source:
-    path: .
     repoURL: https://github.com/morey-tech/argo-cd-helm-values-demo
     targetRevision: HEAD
     helm:
