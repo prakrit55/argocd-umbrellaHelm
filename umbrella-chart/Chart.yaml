@@ -1,5 +1,5 @@
 apiVersion: v2
-name: umbrella-helm
+name: hello-world
 description: An Umbrella Helm chart
 type: application
 version: 0.1.0
@@ -8,4 +8,4 @@ appVersion: "1.0"
 dependencies:
 - name: hello-world
   version: 0.1.0
-  repository: https://github.com/helm/examples/
+  repository: https://github.com/helm/examples
